@@ -4,4 +4,5 @@
   <li>Image Resizer - opencv, cv2</li>
   <li>Weather App - requests, json</li>
   <li>PDF merger - Pypdf2</li>
+  <li>OTP send by mail - smtplib</li>
 </ol>
