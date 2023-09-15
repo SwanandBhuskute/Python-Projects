@@ -5,4 +5,5 @@
   <li>Weather App - requests, json</li>
   <li>PDF merger - Pypdf2</li>
   <li>OTP send by mail - smtplib</li>
+  <li>Password Manager- cryptography</li>
 </ol>
