@@ -8,7 +8,7 @@ if __name__ == "__main__":
         text = input("Enter what you want to say: ")
 
         if text.lower() == "q":
-            eng.say("goodbye")
+            eng.say("Goodbye Master")
             eng.runAndWait()
             break
         eng.say(text)
